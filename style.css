@@ -1,0 +1,43 @@
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+.pink{
+    background-color: crimson;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+.orange{
+    background-color:orange;
+    font-family: 'Times New Roman', Times, serif !important
+}
+.purple{
+    background-color:blueviolet;
+    font-family: 'Times New Roman', Times, serif !important
+}
+.custom{
+    background-color: darkcyan;
+    font-family: 'Times New Roman', Times, serif!important;
+}
+.btn-success{
+    font-family: 'Times New Roman', Times, serif
+}
+.btn-primary{
+    font-family: 'Times New Roman', Times, serif
+}
+.btn-warning{
+    font-family: 'Times New Roman', Times, serif
+}
+.surprise{
+background-color: cornflowerblue;
+font-family: 'Times New Roman', Times, serif !important
+}
+#demobox {
+    background-color: rgb(165, 229, 255) ;
+  }
+  .goofydoo{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(255, 182, 193);
+  }
+ 
