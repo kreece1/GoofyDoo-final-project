@@ -1,6 +1,8 @@
 .title{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+ 
+}
     
 }
 .pink{
@@ -45,5 +47,10 @@ font-family: 'Times New Roman', Times, serif !important
     background-color: rgb(255, 182, 193);
     font-family: 'Times New Roman', Times, serif;
 }
-  
+.img{
+    text-align: center;
+    display: inline-block;
+    margin:0 auto;
+}
+
  
