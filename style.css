@@ -51,5 +51,8 @@ font-family: 'Times New Roman', Times, serif !important
     display: inline-block;
     margin:0 auto;
 }
+.body{
+    background: #ccccff;
+}
 
  
