@@ -42,7 +42,7 @@ font-family: 'Times New Roman', Times, serif !important
     background-color: rgb(255, 182, 193);
   }
   .footer{
-    text:black ;
+    font:black ;
     background-color: rgb(255, 182, 193);
     font-family: 'Times New Roman', Times, serif;
 }
@@ -54,5 +54,24 @@ font-family: 'Times New Roman', Times, serif !important
 .body{
     background: #ccccff;
 }
-
- 
+.logo{
+    position:fixed;
+    left:5%;
+}
+#demoFont {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: Center;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: uppercase;
+    background-color: rgb(255, 182, 193);
+    }
+    .header1{
+        padding:none !important;
+    }
