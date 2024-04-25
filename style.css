@@ -26,22 +26,22 @@
 }
 .btn-success{
     font-family: 'Times New Roman', Times, serif;
-    color: black
+    color: black !important
 }
 .btn-primary{
     font-family: 'Times New Roman', Times, serif;
-    color: black
+    color: black !important
 }
 .btn-warning{
     font-family: 'Times New Roman', Times, serif;
-    color: black
+    color: black !important
 }
 .surprise{
 background-color: cornflowerblue;
 font-family: 'Times New Roman', Times, serif !important;
 color: black
 }
-.btm-danger{
+.btn-danger{
     font-family: 'Times New Roman', Times, serif!important;
     color: black
 }
