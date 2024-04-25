@@ -1,37 +1,49 @@
 .title{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
- 
+    
 }
 .pink{
     background-color: pink;
     font-family: 'Times New Roman', Times, serif !important;
+    color: black
 }
 
 .orange{
     background-color:orange;
-    font-family: 'Times New Roman', Times, serif !important
+    font-family: 'Times New Roman', Times, serif !important;
+    color: black
 }
 .purple{
     background-color:blueviolet;
-    font-family: 'Times New Roman', Times, serif !important
+    font-family: 'Times New Roman', Times, serif !important;
+    color: black
 }
 .custom{
     background-color: darkcyan;
     font-family: 'Times New Roman', Times, serif!important;
+    color: black
 }
 .btn-success{
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
+    color: black
 }
 .btn-primary{
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
+    color: black
 }
 .btn-warning{
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
+    color: black
 }
 .surprise{
 background-color: cornflowerblue;
-font-family: 'Times New Roman', Times, serif !important
+font-family: 'Times New Roman', Times, serif !important;
+color: black
+}
+.btm-danger{
+    font-family: 'Times New Roman', Times, serif!important;
+    color: black
 }
 #demobox {
     background-color: rgb(165, 229, 255) ;
