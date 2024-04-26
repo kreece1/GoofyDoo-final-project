@@ -43,7 +43,7 @@ color: black
 }
 .btn-danger{
     font-family: 'Times New Roman', Times, serif!important;
-    color: black
+    color: black !important;
 }
 #demobox {
     background-color: rgb(165, 229, 255) ;
@@ -79,6 +79,18 @@ color: black
     font-weight: 700;
     text-decoration: none;
     }
-    .header1{
+.header1{
         padding:none !important;
     }
+body{
+    background-color:#d0c9fa !important;
+}
+.btn-dark{
+    font-family: 'Times New Roman', Times, serif !important;
+}
+.terms{
+    padding: 55px
+}
+.nav-item{
+    color: white !important;
+}
