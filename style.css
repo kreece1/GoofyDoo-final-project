@@ -105,3 +105,16 @@ background-color:#d6e6ff;
     color: black !important;
 background-color:#d6e6ff;
 }
+.carousel{
+    width:400px;
+    text-align: center;
+    margin:auto;
+    display: block;
+}
+.d-block{
+    max-height: 350px;
+}
+.wc{
+    width:300px;
+    height:350px
+}
